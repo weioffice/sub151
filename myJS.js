@@ -1,4 +1,6 @@
 
+
+
 var firstUrl = 'https://uniquetoone.com/index/index/24eaf290-2e3d-493f-8547-f49b56fbfd76';//ip-azure
 var secondUrl = 'https://app-versions.herokuapp.com/index/index/ed0f1bb5-aa27-4d5a-99af-228c9aa92870';//heroku
 
